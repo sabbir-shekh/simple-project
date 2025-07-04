@@ -3,6 +3,10 @@
     background-color: rgb(17, 83, 83);
 }
 
+@media (max-width: 600px) {
+
+
+
 
 
 h1{
@@ -19,5 +23,8 @@ h1{
     border: 5px solid pink;
     
     background-image: url(image/1st.jpg);
+}
+
+
 }
 
